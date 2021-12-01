@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@300;400;600&family=DM+Serif+Display&family=Oswald:wght@400;600&family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+h1 {
+  font-family: 'Bitter', serif;
+  text-align:center;
+  font-weight: 600;
+}
+h2 {
+  text-align:center;
+}
+h3 {
+  font-weight:600;
+  text-align:left;
+}
+body {
+  font-family: 'Bitter', serif;
+  background-color: #C9E2DD;
+  text-align:center;
+  font-weight: 400;
+  line-height:2;
+}
+body .links {
+  font-size: 1.5em;
+  margin-left:2em;
+  text-decoration:none;
+  color: #445955;
+}
+body .medialinks {
+  margin-left:0px;
+  text-decoration:none;
+  color: #445955;
+  font-size:1.5em;
+}
+a:hover {color:white !important;
+}
+a:visited {
+  color: #524B7A;
+}
+img {
+  margin-left: auto;
+  margin-right:auto;
+  display: block;
+  width: 1000px;
+}
+
+p.events {
+  text-align: left;
+}
